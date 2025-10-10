@@ -29,7 +29,7 @@ The project delivered a fully cleaned dataset and an interactive Power BI dashbo
     • DAX Formulation (Data Analysis Expressions) & KPI Development
     • Trend & Time-Series Analysis
     • Customer Segmentation  
-    • Decision-Support InsightsInsights Generation
+    • Decision-Support Insights Generation
 
 # ⭕ Final Interactive Dashboard (Image)
 <img width="1346" height="734" alt="Dashboard preview (image)" src="https://github.com/user-attachments/assets/be20f982-b16d-400b-be5e-7f89a123c7a4" />
