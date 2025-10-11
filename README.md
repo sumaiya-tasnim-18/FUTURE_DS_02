@@ -32,5 +32,6 @@ The project delivered a fully cleaned dataset and an interactive Power BI dashbo
     • Decision-Support Insights Generation
 
 # ⭕ Final Interactive Dashboard (Image)
-<img width="1346" height="734" alt="Dashboard preview (image)" src="https://github.com/user-attachments/assets/be20f982-b16d-400b-be5e-7f89a123c7a4" />
+<img width="1353" height="731" alt="Dashboard preview (image)" src="https://github.com/user-attachments/assets/97f546a5-6ba5-4840-885e-653a9191164f" />
+
 
