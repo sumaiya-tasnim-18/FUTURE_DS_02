@@ -4,7 +4,7 @@ This repository shows my TASK-02 of "Data Science & Analytics internship" in "Fu
 
 # 📇 Project Overview
 
-    • Dataset: Marketing campaign dataset (Marketing_Campaign_Data.csv → Cleaned & Processed CSV)
+    • Dataset: Marketing Campaign dataset (marketing_data.csv → Marketing_Campaign_Data.csv)
     • Tools: Python (Pandas), Microsoft Power BI
     • Focus Areas: Data Cleaning & Transformation, DAX-based KPI creation, Interactive Dashboard Design, Campaign Performance & Customer Segment Analysis
 
